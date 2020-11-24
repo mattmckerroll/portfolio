@@ -1,0 +1,77 @@
+
+/* styles for the main header and sub heading are here */
+h1{
+    color: white;
+    background-color: teal;
+} 
+
+h2 {
+    color: teal;
+    font-weight: bold;
+}
+
+/*styling for the image on the about me page*/
+#aboutMeImg {
+    float: left;
+    
+    width: 210px;
+    height: 240px;
+    margin-right: 10px;
+}
+
+/*styling for the images on the portfolio page*/
+#portfolioImgLeft{
+    float: left;
+    width: 200px;
+    height: 200px;
+    margin-right: 10px;
+
+}
+
+#portfolioImgRight{
+    float: right;
+    width: 200px;
+    height: 200px;
+    margin-right: 10px;
+
+}
+
+/*styling for the sticky footer*/
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(49, 49, 49);
+    color: white;
+    text-align: center;
+  }
+
+  .navbar{
+      background-color: teal;
+  }
+
+  /*background color to give the site a bit of depth*/
+  
+body{
+    background-color: burlywood;
+}
+
+/* Facebook */
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+
+  .fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+
+  .fa-linkedin{
+      background: #007bb5;
+      color: white;
+  }
