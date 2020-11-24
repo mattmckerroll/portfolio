@@ -4,7 +4,6 @@ README
 ## Table of Contents
 
 * [Description](#Description)
-* [Screenshot](#Screenshot)
 * [Installation](#installation)
 * [Usage](#usage)
 * [Credits](#credits)
@@ -12,18 +11,13 @@ README
 
 ## Description
 
-This site is for Assignment 2 for the coding bootcamp, this is a biographical site which has semantic HTML elements, links to separate pages, and some pictures. The content of the site is all about me (Matthew Mckerroll)! On here you can find some info about me, some photos and some links to my social media.
+This site is my portfolio, please visit the site and take a look around!
 
-The site has 3 separate pages: About Me, Portfolio, and Contact
-
-Currently the contact page is for viewing only, but there are plans to add proper form submission eventually!
-
-## Screenshot
-[Image of site](./images/screenshotOfSite.jpg)
+This will get updated periodically so don't forget to come back!
 
 ## Installation
 
-visit the site [here](https://mattmckerroll.github.io/MDMbootstraphomeworkweek2/)
+visit the site [here](https://mattmckerroll.github.io/portfolio/)
 
 
 ## Usage 
