@@ -2,11 +2,11 @@
 /* styles for the main header and sub heading are here */
 h1{
     color: white;
-    background-color: teal;
+    background-color: rgb(128, 0, 0);
 } 
 
 h2 {
-    color: teal;
+    color: rgb(129, 0, 0);
     font-weight: bold;
 }
 
@@ -54,7 +54,7 @@ footer {
   /*background color to give the site a bit of depth*/
   
 body{
-    background-color: burlywood;
+    background-color: rgb(180, 180, 255);
 }
 
 /* Facebook */
